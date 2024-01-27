@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /_pyenv
+/_keys.py
