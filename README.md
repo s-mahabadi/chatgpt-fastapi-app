@@ -1,2 +1,5 @@
 # fastapi4chatgpt
-using fastapi as a wrap for chatgpt
+
+main repo: (https://github.com/yangboz/fastapi4chatgpt)[https://github.com/yangboz/fastapi4chatgpt]
+
+

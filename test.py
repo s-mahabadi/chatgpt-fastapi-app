@@ -1,10 +1,12 @@
 import openai
 # Replace YOUR_API_KEY with your OpenAI API key
-openai.api_key = "###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###"
+openai.api_key = "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"
 
 # Set the model and prompt
-model_engine = "text-davinci-003"
-prompt = "写一篇AI芯片论文"
+# model_engine = "text-davinci-003"
+# prompt = "写一篇AI芯片论文"
+model_engine = "gpt-3.5-turbo"
+prompt = "Hello, I am a first try at connecting to you through an API call"
 
 # Set the maximum number of tokens to generate in the response
 max_tokens = 128
